@@ -25,7 +25,7 @@ Built with
 -  Node.js, express, multer, NPM, Materialize-CSS
 
 
-Made by [san00](https://github.com/san00)
--------------------
+### Made by [san00](https://github.com/san00)
+
 
 \ ゜o゜)ノ
