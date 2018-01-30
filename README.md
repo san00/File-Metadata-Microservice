@@ -12,7 +12,7 @@ User story
 
 Screenshot
 --------------
-![screenshot-2018-1-30 file metadata 1](https://user-images.githubusercontent.com/14879253/35585044-be3a4048-05ee-11e8-8d63-6141604a9765.png)
+![file-meta pic jpeg](https://user-images.githubusercontent.com/14879253/35585877-0acee8f8-05f1-11e8-804f-2a2528213015.jpg)
 
 
 Live Preview
