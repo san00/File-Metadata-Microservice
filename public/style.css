@@ -1,0 +1,17 @@
+header {
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+form {
+  margin-top: 80px;
+}
+
+.page-footer {
+  height: auto;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  padding: 25px 0px;
+}

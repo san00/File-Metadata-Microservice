@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>File Metadata</title>
+  <meta name="description" content="file information">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+</head>
+  
+<script src="https://use.fontawesome.com/de7c119fb6.js"></script>
+
+<body class="container grid-example col s12 m6">
+  <header class="flow-text">
+    <h2 class="container ">
+    File Metadata Microservice
+    </h2>
+  </header>
+  <p class="container flow-text">
+    Upload a file to see it's information
+  </p>
+  <div class="container">
+    <form action="/upload" method="post" enctype="multipart/form-data">
+      <div class="file-field input-field">
+        <div class="btn grey">
+          <span>File</span>
+          <input type="file" id="file" value="file" name="file">
+        </div>
+        <div class="file-path-wrapper">
+          <input class="file-path validate" type="text">
+        </div>
+      </div>
+      <button type="submit" class="btn">
+        submit
+      </button>
+    </form>
+  </div>
+
+  <footer class="page-footer">
+    <div class="container">
+      <a class="grey-text text-lighten-4 right" href="https://www.github.com/san00">Made by san00 <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
+    </div>
+  </footer>
+
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
+</body>
+
+</html>
+
